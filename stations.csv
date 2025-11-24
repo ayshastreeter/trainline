@@ -1,0 +1,1261 @@
+,station,lat,lon,operator
+0,Abbey Wood,51.49,0.12,English Rail
+1,Aberdeen,57.14,-2.09,Scottish Rail
+2,Abergavenny,51.81,-3.0,Welsh Rail
+3,Aberystwyth,52.41,-4.08,Welsh Rail
+4,Accrington,53.75,-2.36,English Rail
+5,Acklington Barr,51.37,-0.76,Trainline
+6,Addlestone,51.37,-0.48,English Rail
+7,Aigburth Corner,51.44,-0.48,Trainline
+8,Aigburth Hill,51.4,-0.3,Trainline
+9,Airdrie,55.86,-3.98,Scottish Rail
+10,Alderley Edge,53.3,-2.23,English Rail
+11,Aldershot,51.24,-0.75,English Rail
+12,Aldershot Cary,51.44,0.05,Trainline
+13,Alfreton,53.1,-1.36,English Rail
+14,Alloa,56.11,-3.79,Scottish Rail
+15,Alnmouth,55.39,-1.63,Scottish Rail
+16,Alresford (Essex),51.85,0.99,English Rail
+17,Alsager,53.09,-2.29,English Rail
+18,Alton,51.15,-0.96,English Rail
+19,Altrincham,53.38,-2.34,English Rail
+20,Andover,51.21,-1.49,English Rail
+21,Angmering,50.81,-0.48,English Rail
+22,Anniesland,55.88,-4.32,Scottish Rail
+23,Ansdell East,51.4,-0.76,Trainline
+24,Apperley Bridge,53.84,-1.7,English Rail
+25,Apsley,51.73,-0.46,English Rail
+26,Arbroath,56.55,-2.58,Scottish Rail
+27,Arlesey,52.02,-0.26,English Rail
+28,Arrochar Wawen,51.4,-0.33,Trainline
+29,Arundel,50.84,-0.54,English Rail
+30,Ascot (Berks),51.4,-0.67,English Rail
+31,Ash,51.24,-0.71,English Rail
+32,Ash Central,51.45,-0.84,Trainline
+33,Ash Vale,51.27,-0.72,English Rail
+34,Ashchurch for Tewkesbury,51.99,-2.1,English Rail
+35,Ashfield Ruislip,51.46,-0.83,Trainline
+36,Ashford (Surrey),51.43,-0.46,English Rail
+37,Ashford International,51.14,0.87,English Rail
+38,Ashtead,51.31,-0.3,English Rail
+39,Ashurst North,51.45,-0.08,Trainline
+40,Ashwell & Morden,52.03,-0.1,English Rail
+41,Atherstone,52.57,-1.55,English Rail
+42,Attadale Green,51.39,-0.2,Trainline
+43,Attleborough,52.51,1.02,English Rail
+44,Audley End,52.0,0.2,English Rail
+45,Aviemore,57.18,-3.82,Scottish Rail
+46,Avonmouth Hill,51.44,0.06,Trainline
+47,Axminster,50.77,-3.0,English Rail
+48,Aylesbury,51.81,-0.81,English Rail
+49,Aylesbury Olympia,51.39,-0.18,Trainline
+50,Ayr,55.45,-4.62,Scottish Rail
+51,Ayr Cary,51.39,-0.84,Trainline
+52,Balcombe,51.05,-0.13,English Rail
+53,Baldock,51.99,-0.18,English Rail
+54,Balham,51.44,-0.15,English Rail
+55,Banbury,52.06,-1.32,English Rail
+56,Bangor (Gwynedd),53.22,-4.13,Welsh Rail
+57,Banstead Wood,51.41,0.04,Trainline
+58,Barassie Central,51.42,-0.7,Trainline
+59,Barking,51.53,0.08,English Rail
+60,Barming,51.28,0.47,English Rail
+61,Barnetby,53.57,-0.4,English Rail
+62,Barnham,50.83,-0.63,English Rail
+63,Barnsley,53.55,-1.47,English Rail
+64,Barnstaple,51.07,-4.06,English Rail
+65,Barnt Green,52.36,-1.99,English Rail
+66,Barrhead,55.8,-4.39,Scottish Rail
+67,Barrhead Cross,51.4,-0.31,Trainline
+68,Barrhill Junction,51.47,-0.58,Trainline
+69,Barrow-in-Furness,54.11,-3.22,English Rail
+70,Barrow-upon-Soar Freeport,51.42,-0.03,Trainline
+71,Barry,51.39,-3.28,Welsh Rail
+72,Basildon,51.56,0.45,English Rail
+73,Basingstoke,51.26,-1.08,English Rail
+74,Bath Hill,51.47,-0.62,Trainline
+75,Bath Spa,51.37,-2.35,English Rail
+76,Bathgate,55.89,-3.63,Scottish Rail
+77,Batley Mawddach,51.45,-0.6,Trainline
+78,Battle,50.91,0.49,English Rail
+79,Beaconsfield,51.61,-0.64,English Rail
+80,Bearsted,51.27,0.57,English Rail
+81,Bearsted Upper,51.42,-0.69,Trainline
+82,Beccles,52.45,1.56,English Rail
+83,Bedford,52.13,-0.47,English Rail
+84,Bedhampton Junction,51.48,0.0,Trainline
+85,Bedwyn,51.37,-1.59,English Rail
+86,Beeston,52.92,-1.2,English Rail
+87,Bellgrove,55.85,-4.22,Scottish Rail
+88,Bellingham Culvert,51.41,-1.02,Trainline
+89,Bellshill,55.81,-4.02,Scottish Rail
+90,Belper,53.02,-1.48,English Rail
+91,Ben Rhydding,53.92,-1.79,English Rail
+92,Ben West,51.4,-0.48,Trainline
+93,Benfleet,51.54,0.56,English Rail
+94,Berkhamsted,51.76,-0.56,English Rail
+95,Berkswell,52.39,-1.64,English Rail
+96,Berwick-upon-Tweed,55.77,-2.01,Scottish Rail
+97,Beverley,53.84,-0.42,English Rail
+98,Bexhill,50.84,0.47,English Rail
+99,Bicester North,51.9,-1.15,English Rail
+100,Bicester Village,51.89,-1.14,English Rail
+101,Bidston Bridge,51.38,-0.68,Trainline
+102,Biggleswade,52.08,-0.26,English Rail
+103,Billericay,51.62,0.41,English Rail
+104,Billingshurst,51.01,-0.45,English Rail
+105,Billingshurst Green,51.39,-0.69,Trainline
+106,Bingley,53.84,-1.83,English Rail
+107,Bingley Town,51.47,-0.23,Trainline
+108,Birchwood,53.41,-2.52,English Rail
+109,Birmingham Gate,51.45,-0.07,Trainline
+110,Birmingham International,52.45,-1.72,English Rail
+111,Birmingham Moor Street,52.47,-1.89,English Rail
+112,Birmingham New Street,52.47,-1.9,English Rail
+113,Birmingham Snow Hill,52.48,-1.89,English Rail
+114,Bishopbriggs,55.9,-4.22,Scottish Rail
+115,Bishops Stortford,51.86,0.16,English Rail
+116,Bishopton (Renfrewshire),55.9,-4.5,Scottish Rail
+117,Bishopton South,51.43,0.04,Trainline
+118,Blackburn,53.74,-2.47,English Rail
+119,Blackpool Hill,51.47,-0.17,Trainline
+120,Blackpool North,53.82,-3.04,English Rail
+121,Blackwater,51.33,-0.77,English Rail
+122,Blake Street,52.6,-1.84,English Rail
+123,Bletchley,51.99,-0.73,English Rail
+124,Bodmin Parkway,50.44,-4.66,English Rail
+125,Bognor Regis,50.78,-0.67,English Rail
+126,Bolton,53.57,-2.42,English Rail
+127,Bookham,51.28,-0.38,English Rail
+128,Bordesley Central,51.46,-0.18,Trainline
+129,Borough Green & Wrotham,51.29,0.3,English Rail
+130,Boston,52.97,-0.03,English Rail
+131,Botley,50.91,-1.25,English Rail
+132,Bournemouth,50.72,-1.86,English Rail
+133,Bournville,52.42,-1.92,English Rail
+134,Bracknell,51.41,-0.75,English Rail
+135,Bradford Forster Square,53.79,-1.75,English Rail
+136,Bradford Interchange,53.79,-1.74,English Rail
+137,Bradford-on-Avon,51.34,-2.25,English Rail
+138,Braintree,51.87,0.55,English Rail
+139,Braintree Freeport,51.86,0.56,English Rail
+140,Bramhall,53.36,-2.16,English Rail
+141,Bramley (Hampshire),51.33,-1.06,English Rail
+142,Bramley (West Yorkshire),53.8,-1.63,English Rail
+143,Bramley Orton,51.43,-0.59,Trainline
+144,Brampton Interchange,51.4,-0.18,Trainline
+145,Brandon,52.45,0.62,English Rail
+146,Branksome,50.72,-1.91,English Rail
+147,Brentwood,51.61,0.29,English Rail
+148,Bridge of Allan,56.15,-3.95,Scottish Rail
+149,Bridgend,51.5,-3.57,Welsh Rail
+150,Bridgwater,51.12,-2.99,English Rail
+151,Bridlington,54.08,-0.19,English Rail
+152,Brigg Grinstead,51.4,0.1,Trainline
+153,Brigg Wawen,51.48,-0.99,Trainline
+154,Brighouse,53.69,-1.77,English Rail
+155,Brighton,50.82,-0.14,English Rail
+156,Bristol Parkway,51.51,-2.54,English Rail
+157,Bristol Temple Meads,51.44,-2.58,English Rail
+158,Broad Green,53.4,-2.89,English Rail
+159,Broadstairs,51.36,1.43,English Rail
+160,Brockenhurst,50.81,-1.57,English Rail
+161,Brockenhurst Monkhill,51.44,0.06,Trainline
+162,Bromley Cross (Lancs),53.61,-2.41,English Rail
+163,Bromley Halliford,51.48,0.09,Trainline
+164,Bromley Hampstead,51.39,-0.6,Trainline
+165,Bromley South,51.4,0.01,English Rail
+166,Bromsgrove,52.32,-2.04,English Rail
+167,Brookwood,51.3,-0.63,English Rail
+168,Brora International,51.47,-0.4,Trainline
+169,Brough,53.72,-0.57,English Rail
+170,Broxbourne,51.74,-0.01,English Rail
+171,Broxbourne Common,51.47,-0.19,Trainline
+172,Brunstane House,51.46,-0.48,Trainline
+173,Buckshaw Parkway,53.67,-2.66,English Rail
+174,Burgess Hill,50.95,-0.12,English Rail
+175,Burley Park,53.81,-1.57,English Rail
+176,Burley-in-Wharfedale,53.9,-1.75,English Rail
+177,Burnham (Buckinghamshire),51.52,-0.64,English Rail
+178,Burnham Lane,51.39,-0.58,Trainline
+179,Burnham-on-Crouch,51.63,0.81,English Rail
+180,Burnley Manchester Road,53.78,-2.24,English Rail
+181,Burscough Bridge,53.6,-2.84,English Rail
+182,Burton Buckby,51.45,-0.4,Trainline
+183,Burton Road,51.37,-1.03,Trainline
+184,Burton-on-Trent,52.8,-1.64,English Rail
+185,Bury St Edmunds,52.25,0.71,English Rail
+186,Bush Fambridge,51.47,-0.96,Trainline
+187,Buxted Barracks,51.47,-0.97,Trainline
+188,Buxton,53.26,-1.91,English Rail
+189,Buxton Major,51.46,-0.49,Trainline
+190,Byfleet & New Haw,51.34,-0.48,English Rail
+191,Caergwrle Drayton,51.43,-0.08,Trainline
+192,Caerphilly,51.57,-3.21,Welsh Rail
+193,Cam & Dursley,51.71,-2.35,English Rail
+194,Camberley,51.33,-0.74,English Rail
+195,Camborne,50.21,-5.29,English Rail
+196,Cambridge,52.19,0.13,English Rail
+197,Cambridge North,52.22,0.15,English Rail
+198,Cambridge West,51.43,0.1,Trainline
+199,Cambuslang,55.81,-4.17,Scottish Rail
+200,Canley,52.39,-1.54,English Rail
+201,Cannock,52.68,-2.02,English Rail
+202,Canterbury East,51.27,1.07,English Rail
+203,Canterbury West,51.28,1.07,English Rail
+204,Capenhurst Central,51.47,-0.91,Trainline
+205,Cardiff Central,51.47,-3.17,Welsh Rail
+206,Cardiff Queen Street,51.48,-3.17,Welsh Rail
+207,Cardonald Heath,51.36,-0.93,Trainline
+208,Carlisle,54.89,-2.93,English Rail
+209,Carluke,55.73,-3.84,Scottish Rail
+210,Carmarthen,51.85,-4.3,Welsh Rail
+211,Carnforth,54.12,-2.77,English Rail
+212,Carnoustie Bridge,51.41,0.0,Trainline
+213,Carntyne Malvern,51.39,0.08,Trainline
+214,Castle Cary,51.09,-2.52,English Rail
+215,Castleford,53.72,-1.35,English Rail
+216,Castleford Bridge,51.48,0.08,Trainline
+217,Cathays,51.48,-3.17,Welsh Rail
+218,Chalfont Park,51.43,-0.46,Trainline
+219,Chalkwell,51.53,0.67,English Rail
+220,Chapelton Bath,51.48,-0.97,Trainline
+221,Chapeltown (South Yorkshire),53.46,-1.46,English Rail
+222,Charing Cross (Glasgow),55.86,-4.26,Scottish Rail
+223,Charlbury,51.87,-1.48,English Rail
+224,Chatham,51.38,0.52,English Rail
+225,Cheadle Hulme,53.37,-2.18,English Rail
+226,Cheam Downs,51.47,-0.2,Trainline
+227,Chelmsford,51.73,0.46,English Rail
+228,Cheltenham Spa,51.89,-2.09,English Rail
+229,Chepstow,51.64,-2.67,English Rail
+230,Chertsey,51.38,-0.5,English Rail
+231,Cheshunt,51.7,-0.02,English Rail
+232,Chester,53.19,-2.87,English Rail
+233,Chester Road,52.53,-1.83,English Rail
+234,Chester-le-Street,54.85,-1.57,English Rail
+235,Chester-le-Street West,51.48,-1.05,Trainline
+236,Chesterfield,53.23,-1.42,English Rail
+237,Chichester,50.83,-0.78,English Rail
+238,Chilworth Arms,51.47,0.0,Trainline
+239,Chinley,53.34,-1.94,English Rail
+240,Chippenham,51.46,-2.11,English Rail
+241,Chirk,52.93,-3.06,Welsh Rail
+242,Chirk East,51.39,0.09,Trainline
+243,Cholsey,51.57,-1.15,English Rail
+244,Cholsey Culvert,51.48,0.1,Trainline
+245,Chorley,53.65,-2.62,English Rail
+246,Christchurch,50.73,-1.78,English Rail
+247,City Thameslink,51.51,-0.1,English Rail
+248,Clacton-on-Sea,51.79,1.15,English Rail
+249,Clandon,51.26,-0.5,English Rail
+250,Clapham Junction,51.46,-0.17,English Rail
+251,Clapham Street,51.43,-0.48,Trainline
+252,Clapton Gardens,51.41,0.04,Trainline
+253,Claygate,51.36,-0.34,English Rail
+254,Cleethorpes,53.56,-0.02,English Rail
+255,Clifton Down,51.46,-2.61,English Rail
+256,Clitheroe,53.87,-2.39,English Rail
+257,Clunderwen Lane,51.4,0.06,Trainline
+258,Clydebank Warlingham,51.39,0.1,Trainline
+259,Coatbridge Sunnyside,55.86,-4.02,Scottish Rail
+260,Cobham & Stoke D'Abernon,51.31,-0.38,English Rail
+261,Colchester,51.9,0.89,English Rail
+262,Colchester Town,51.88,0.9,English Rail
+263,Coleshill Parkway,52.51,-1.7,English Rail
+264,Colne International,51.43,-0.89,Trainline
+265,Colwyn Bay,53.29,-3.72,Welsh Rail
+266,Commondale Green,51.4,-0.32,Trainline
+267,Congleton,53.15,-2.19,English Rail
+268,Corby,52.48,-0.68,English Rail
+269,Coseley,52.54,-2.08,English Rail
+270,Coseley South,51.4,-0.29,Trainline
+271,Cosham,50.84,-1.06,English Rail
+272,Cosham Abbey,51.43,-1.02,Trainline
+273,Cottingham,53.78,-0.4,English Rail
+274,Coulsdon South,51.31,-0.13,English Rail
+275,Coventry,52.4,-1.51,English Rail
+276,Coventry Park,51.38,-0.69,Trainline
+277,Cradley Heath,52.46,-2.09,English Rail
+278,Craigendoran Hill,51.47,-0.63,Trainline
+279,Cramlington,55.08,-1.59,Scottish Rail
+280,Cramlington Bridge,51.4,-0.69,Trainline
+281,Cranbrook (Devon),50.75,-3.42,English Rail
+282,Craven Austell,51.4,-0.41,Trainline
+283,Crawley,51.11,-0.18,English Rail
+284,Crewe,53.08,-2.43,English Rail
+285,Crewkerne,50.87,-2.77,English Rail
+286,Cromer,52.93,1.29,English Rail
+287,Cross Gates,53.8,-1.45,English Rail
+288,Crossflatts,53.85,-1.84,English Rail
+289,Crossmyloof,55.83,-4.28,Scottish Rail
+290,Crossmyloof Airport,51.41,-0.43,Trainline
+291,Crowborough,51.04,0.18,English Rail
+292,Crowthorne,51.36,-0.81,English Rail
+293,Croy,55.95,-4.03,Scottish Rail
+294,Cupar,56.31,-3.0,Scottish Rail
+295,Cwmbran,51.65,-3.01,Welsh Rail
+296,Dalgety Bridge,51.44,-0.19,Trainline
+297,Dalmeny,55.98,-3.38,Scottish Rail
+298,Dalmuir,55.91,-4.42,Scottish Rail
+299,Danby Park,51.46,-0.4,Trainline
+300,Darlington,54.52,-1.54,English Rail
+301,Darnall Mill,51.41,-0.7,Trainline
+302,Darnall Wood,51.4,-0.59,Trainline
+303,Darsham,52.27,1.52,English Rail
+304,Dartford,51.44,0.21,English Rail
+305,Darwen,53.69,-2.46,English Rail
+306,Davenport,53.39,-2.15,English Rail
+307,Dawlish,50.58,-3.46,English Rail
+308,Deal,51.22,1.39,English Rail
+309,Dean Wick,51.48,0.06,Trainline
+310,Deansgate,53.47,-2.25,English Rail
+311,Denby Road,51.42,-0.73,Trainline
+312,Denmark Hill,51.46,-0.08,English Rail
+313,Dewsbury,53.69,-1.63,English Rail
+314,Didcot Parkway,51.61,-1.24,English Rail
+315,Dingle Docks,51.48,-0.83,Trainline
+316,Diss,52.37,1.12,English Rail
+317,Dodworth Wood,51.44,0.09,Trainline
+318,Doncaster,53.52,-1.13,English Rail
+319,Dorchester South,50.7,-2.43,English Rail
+320,Dore & Totley,53.32,-1.51,English Rail
+321,Dorking (Deepdene),51.23,-0.32,English Rail
+322,Dorking (Main),51.24,-0.32,English Rail
+323,Dorridge,52.37,-1.75,English Rail
+324,Dover Priory,51.12,1.3,English Rail
+325,Dovercourt,51.93,1.28,English Rail
+326,Downham Market,52.6,0.36,English Rail
+327,Driffield,54.0,-0.43,English Rail
+328,Driffield Well,51.42,-0.59,Trainline
+329,Drigg Central,51.47,-0.18,Trainline
+330,Droitwich Spa,52.26,-2.15,English Rail
+331,Dronfield,53.3,-1.46,English Rail
+332,Drumfrochar Waterloo,51.48,-0.83,Trainline
+333,Drumgelloch,55.86,-3.94,Scottish Rail
+334,Drumgelloch Milton,51.4,-0.01,Trainline
+335,Duddeston Bridge,51.39,-0.15,Trainline
+336,Dudley Port,52.52,-2.04,English Rail
+337,Duke Bridge,51.4,-0.49,Trainline
+338,Duke Park,51.4,0.0,Trainline
+339,Dumfries,55.07,-3.6,Scottish Rail
+340,Dumfries Airport,51.43,-0.08,Trainline
+341,Dunbar,55.99,-2.51,Scottish Rail
+342,Dunblane,56.18,-3.96,Scottish Rail
+343,Dundee,56.45,-2.97,Scottish Rail
+344,Dunfermline City,56.06,-3.45,Scottish Rail
+345,Durham,54.77,-1.58,English Rail
+346,Durrington-on-Sea,50.81,-0.41,English Rail
+347,Dyce,57.2,-2.19,Scottish Rail
+348,Eaglescliffe,54.52,-1.34,English Rail
+349,Eaglescliffe Platt,51.42,-0.04,Trainline
+350,Ealing Broadway,51.51,-0.3,English Rail
+351,Earlestown,53.45,-2.63,English Rail
+352,Earley,51.44,-0.91,English Rail
+353,Earlsfield,51.44,-0.18,English Rail
+354,Earlswood (Surrey),51.22,-0.17,English Rail
+355,East Bridge,51.47,-1.02,Trainline
+356,East Croydon,51.37,-0.09,English Rail
+357,East Didsbury,53.4,-2.22,English Rail
+358,East Garforth,53.79,-1.37,English Rail
+359,East Grinstead,51.12,-0.01,English Rail
+360,East Kilbride,55.76,-4.18,Scottish Rail
+361,East Midlands Parkway,52.86,-1.26,English Rail
+362,East Saltings,51.48,-0.83,Trainline
+363,Eastbourne,50.76,0.28,English Rail
+364,Eastham Florida,51.47,-1.01,Trainline
+365,Eastleigh,50.96,-1.35,English Rail
+366,Eastleigh Airport,51.39,-0.18,Trainline
+367,Eastrington End,51.48,-0.98,Trainline
+368,Ebbsfleet International,51.44,0.32,English Rail
+369,Eccles (Manchester),53.48,-2.33,English Rail
+370,Edale Milton,51.4,-0.28,Trainline
+371,Edinburgh (Waverley),55.95,-3.18,Scottish Rail
+372,Edinburgh Hill,51.41,-0.02,Trainline
+373,Edinburgh Park,55.92,-3.3,Scottish Rail
+374,Effingham Junction,51.29,-0.41,English Rail
+375,Egham,51.42,-0.54,English Rail
+376,Elgin,57.64,-3.31,Scottish Rail
+377,Elmers Chase,51.42,-0.69,Trainline
+378,Elsenham (Essex),51.92,0.22,English Rail
+379,Elstree & Borehamwood,51.65,-0.28,English Rail
+380,Elton Parkway,51.48,-0.88,Trainline
+381,Ely,52.39,0.26,English Rail
+382,Emsworth,50.85,-0.93,English Rail
+383,Epsom (Surrey),51.33,-0.26,English Rail
+384,Erdington,52.52,-1.83,English Rail
+385,Esher,51.37,-0.35,English Rail
+386,Eskbank,55.88,-3.08,Scottish Rail
+387,Evesham,52.09,-1.94,English Rail
+388,Exeter Central,51.46,-0.9,Trainline
+389,Exeter Central,50.72,-3.53,English Rail
+390,Exeter St David's,50.72,-3.54,English Rail
+391,Exmouth,50.62,-3.41,English Rail
+392,Eynsford Bay,51.39,-0.48,Trainline
+393,Falkirk Grahamston,56.0,-3.78,Scottish Rail
+394,Falkirk High,55.99,-3.79,Scottish Rail
+395,Falls North,51.4,-0.69,Trainline
+396,Falmer,50.86,-0.08,English Rail
+397,Falmouth Town,50.14,-5.06,English Rail
+398,Fareham,50.85,-1.19,English Rail
+399,Fareham Bridge,51.39,0.05,Trainline
+400,Farnborough (Main),51.29,-0.75,English Rail
+401,Farnborough North,51.3,-0.74,English Rail
+402,Farncombe,51.19,-0.6,English Rail
+403,Farnham,51.21,-0.79,English Rail
+404,Farringdon,51.52,-0.1,English Rail
+405,Faversham,51.31,0.89,English Rail
+406,Felixstowe,51.96,1.35,English Rail
+407,Felixstowe Heath,51.41,-0.43,Trainline
+408,Feltham,51.44,-0.4,English Rail
+409,Feniton Road,51.4,-0.87,Trainline
+410,Fernhill Road,51.47,-0.16,Trainline
+411,Filton Abbey Wood,51.5,-2.56,English Rail
+412,Finsbury Park,51.56,-0.1,English Rail
+413,Fitzwilliam,53.63,-1.37,English Rail
+414,Five Ways,52.47,-1.91,English Rail
+415,Fleet,51.29,-0.83,English Rail
+416,Flint,53.24,-3.13,Welsh Rail
+417,Flitwick,52.0,-0.49,English Rail
+418,Folkestone Central,51.08,1.16,English Rail
+419,Folkestone West,51.08,1.15,English Rail
+420,Ford Newton,51.47,-0.73,Trainline
+421,Forres,57.61,-3.62,Scottish Rail
+422,Fort Erth,51.47,-0.08,Trainline
+423,Fort William,56.82,-5.1,Scottish Rail
+424,Four Oaks,52.57,-1.82,English Rail
+425,Fratton,50.79,-1.07,English Rail
+426,Fratton Lynn,51.42,-0.93,Trainline
+427,Frinton-on-Sea,51.83,1.24,English Rail
+428,Frodsham,53.29,-2.72,English Rail
+429,Frome,51.22,-2.3,English Rail
+430,Furze Common,51.48,-0.73,Trainline
+431,Gainsborough Green,51.48,-1.03,Trainline
+432,Gainsborough Lea Road,53.38,-0.76,English Rail
+433,Galashiels,55.61,-2.8,Scottish Rail
+434,Garforth,53.79,-1.38,English Rail
+435,Garsdale Westgate,51.43,-0.9,Trainline
+436,Gatley,53.39,-2.23,English Rail
+437,Gatwick Airport,51.15,-0.16,English Rail
+438,Gatwick Bridge,51.47,-0.19,Trainline
+439,Gerrards Cross,51.58,-0.55,English Rail
+440,Gillingham (Dorset),51.03,-2.27,English Rail
+441,Gillingham (Kent),51.38,0.54,English Rail
+442,Gillingham Barracks,51.4,-0.07,Trainline
+443,Glasgow Central,55.85,-4.25,Scottish Rail
+444,Glasgow Queen Street,55.86,-4.25,Scottish Rail
+445,Gleneagles,56.27,-3.73,Scottish Rail
+446,Glossop,53.44,-1.94,English Rail
+447,Gloucester,51.86,-2.23,English Rail
+448,Gobowen,52.89,-3.03,Welsh Rail
+449,Godalming,51.18,-0.61,English Rail
+450,Golspie Park,51.4,0.05,Trainline
+451,Gomshall Spa,51.4,-0.41,Trainline
+452,Goodmayes Parkway,51.48,-0.97,Trainline
+453,Goole,53.7,-0.87,English Rail
+454,Goostrey Water,51.43,-0.05,Trainline
+455,Goring & Streatley,51.52,-1.13,English Rail
+456,Goring-by-Sea,50.81,-0.43,English Rail
+457,Gourock,55.96,-4.81,Scottish Rail
+458,Grangetown Park,51.47,-0.9,Trainline
+459,Grantham,52.9,-0.64,English Rail
+460,Grateley,51.17,-1.62,English Rail
+461,Grateley Oaks,51.45,-1.01,Trainline
+462,Gravesend,51.44,0.36,English Rail
+463,Grays,51.47,0.32,English Rail
+464,Great Bentley,51.85,1.06,English Rail
+465,Great Malvern,52.1,-2.31,English Rail
+466,Great Missenden,51.7,-0.7,English Rail
+467,Great Yarmouth,52.61,1.72,English Rail
+468,Green South,51.47,-0.59,Trainline
+469,Greenbank,53.25,-2.53,English Rail
+470,Greenfield,53.53,-2.01,English Rail
+471,Greenhithe Water,51.47,-0.62,Trainline
+472,Greenhithe for Bluewater,51.45,0.28,English Rail
+473,Greenock Ayton,51.46,-0.72,Trainline
+474,Greenwich,51.47,-0.01,English Rail
+475,Greenwich Mill,51.39,-0.16,Trainline
+476,Grimsby Town,53.56,-0.08,English Rail
+477,Guide Bridge,53.47,-2.11,English Rail
+478,Guildford,51.23,-0.58,English Rail
+479,Guiseley,53.87,-1.71,English Rail
+480,Haddenham & Thame Parkway,51.77,-0.94,English Rail
+481,Hairmyres,55.76,-4.21,Scottish Rail
+482,Halesworth,52.34,1.5,English Rail
+483,Halifax,53.72,-1.85,English Rail
+484,Hamilton Central,55.77,-4.03,Scottish Rail
+485,Hamilton West,55.77,-4.05,Scottish Rail
+486,Hampden Park (Sussex),50.79,0.27,English Rail
+487,Hampton-in-Arden,52.42,-1.69,English Rail
+488,Hamstead Notley,51.45,-0.41,Trainline
+489,Hamworthy,50.72,-2.01,English Rail
+490,Hanborough,51.82,-1.37,English Rail
+491,Handforth,53.34,-2.21,English Rail
+492,Harling East,51.47,-0.73,Trainline
+493,Harlington (Bedfordshire),51.96,-0.49,English Rail
+494,Harlow Mill,51.79,0.13,English Rail
+495,Harlow Town,51.78,0.09,English Rail
+496,Harpenden,51.81,-0.35,English Rail
+497,Harringay Abbey,51.41,-0.41,Trainline
+498,Harrogate,53.99,-1.53,English Rail
+499,Harrow & Wealdstone,51.59,-0.33,English Rail
+500,Hartford (Cheshire),53.24,-2.55,English Rail
+501,Hartlepool,54.68,-1.2,English Rail
+502,Harwich Fenton,51.41,0.0,Trainline
+503,Harwich International,51.94,1.25,English Rail
+504,Haslemere,51.08,-0.71,English Rail
+505,Hassocks,50.92,-0.14,English Rail
+506,Hastings,50.85,0.57,English Rail
+507,Hatfield (Herts),51.76,-0.21,English Rail
+508,Hatfield Peverel,51.77,0.59,English Rail
+509,Havant,50.85,-0.98,English Rail
+510,Haverfordwest,51.8,-4.96,Welsh Rail
+511,Hawarden Eaton,51.48,0.11,Trainline
+512,Hayes & Harlington,51.5,-0.42,English Rail
+513,Hayle Road,51.36,-1.03,Trainline
+514,Haymarket,55.94,-3.21,Scottish Rail
+515,Haywards Heath,51.0,-0.1,English Rail
+516,Hazel Grove,53.37,-2.12,English Rail
+517,Headcorn,51.16,0.62,English Rail
+518,Headingley,53.81,-1.59,English Rail
+519,Headstone Docks,51.47,-0.61,Trainline
+520,Heald Green,53.36,-2.23,English Rail
+521,Heald Road,51.45,-0.48,Trainline
+522,Heath High Level,51.51,-3.18,Welsh Rail
+523,Heathrow Terminal 4 (Rail Station Only),51.45,-0.44,English Rail
+524,Heathrow Terminal 5 (Rail Station Only),51.47,-0.49,English Rail
+525,Heathrow Terminals 2 & 3 (Rail Station only),51.47,-0.45,English Rail
+526,Heaton Chapel,53.42,-2.17,English Rail
+527,Hebden Bridge,53.73,-2.0,English Rail
+528,Hedge End,50.93,-1.29,English Rail
+529,Hednesford,52.71,-2.0,English Rail
+530,Helensburgh Central,56.0,-4.73,Scottish Rail
+531,Hemel Hempstead,51.74,-0.49,English Rail
+532,Henley-on-Thames,51.53,-0.9,English Rail
+533,Hereford,52.06,-2.7,English Rail
+534,Hereford Town,51.41,0.05,Trainline
+535,Herne Bay,51.36,1.11,English Rail
+536,Herne Road,51.47,-0.9,Trainline
+537,Hersham,51.37,-0.38,English Rail
+538,Hertford East,51.79,-0.07,English Rail
+539,Hertford North,51.79,-0.09,English Rail
+540,Hexham,54.97,-2.09,English Rail
+541,Heyford Park,51.47,-0.91,Trainline
+542,High Brooms,51.14,0.27,English Rail
+543,High North,51.36,-0.92,Trainline
+544,High Wood,51.39,-0.61,Trainline
+545,High Wycombe,51.62,-0.74,English Rail
+546,Highbridge & Burnham,51.21,-2.97,English Rail
+547,Hildenborough,51.21,0.22,English Rail
+548,Hillfoot Rake,51.39,-0.83,Trainline
+549,Hillington Central,51.38,-0.54,Trainline
+550,Hillington Street,51.47,0.05,Trainline
+551,Hillside Bay,51.36,-0.92,Trainline
+552,Hilsea,50.82,-1.05,English Rail
+553,Hinckley (Leics),52.53,-1.37,English Rail
+554,Hinton Admiral,50.75,-1.71,English Rail
+555,Hitchin,51.95,-0.26,English Rail
+556,Hitchin Tottenham,51.47,-0.16,Trainline
+557,Hockley,51.6,0.65,English Rail
+558,Holmes Chapel,53.19,-2.35,English Rail
+559,Holyhead,53.3,-4.63,Welsh Rail
+560,Honeybourne,52.1,-1.83,English Rail
+561,Honiton,50.79,-3.18,English Rail
+562,Honiton Common,51.45,-0.33,Trainline
+563,Hook,51.27,-0.96,English Rail
+564,Horley,51.16,-0.16,English Rail
+565,Hornbeam Park,53.97,-1.52,English Rail
+566,Horsforth,53.84,-1.63,English Rail
+567,Horsham,51.06,-0.31,English Rail
+568,Horsley,51.27,-0.43,English Rail
+569,Horwich Parkway,53.57,-2.53,English Rail
+570,Hove,50.83,-0.17,English Rail
+571,Howden,53.76,-0.86,English Rail
+572,Huddersfield,53.64,-1.78,English Rail
+573,Hull,53.74,-0.34,English Rail
+574,Hungerford,51.41,-1.51,English Rail
+575,Huntingdon,52.32,-0.19,English Rail
+576,Hurst Green,51.24,0.0,English Rail
+577,Huyton,53.4,-2.84,English Rail
+578,Hyde Park,51.4,0.0,Trainline
+579,Hykeham,53.19,-0.6,English Rail
+580,Hyndland,55.87,-4.31,Scottish Rail
+581,Hythe (Essex),51.88,0.92,English Rail
+582,Ifield,51.11,-0.21,English Rail
+583,Ilkeston,52.97,-1.29,English Rail
+584,Ilkley,53.92,-1.82,English Rail
+585,Ingatestone,51.66,0.38,English Rail
+586,Inverkeithing,56.03,-3.39,Scottish Rail
+587,Inverness,57.47,-4.22,Scottish Rail
+588,Inverness Admiral,51.45,-0.74,Trainline
+589,Invershin Ayton,51.42,-0.93,Trainline
+590,Inverurie,57.28,-2.37,Scottish Rail
+591,Ipswich,52.05,1.14,English Rail
+592,Irlam,53.43,-2.43,English Rail
+593,Irvine,55.61,-4.67,Scottish Rail
+594,Ivybridge,50.39,-3.9,English Rail
+595,Jewellery West,51.46,-0.08,Trainline
+596,Johnstone (Renfrewshire),55.83,-4.5,Scottish Rail
+597,Jordanhill Park,51.48,0.07,Trainline
+598,Kearsney Arms,51.48,0.11,Trainline
+599,Keighley,53.86,-1.9,English Rail
+600,Keith,57.55,-2.95,Scottish Rail
+601,Kelvedon,51.84,0.7,English Rail
+602,Kemble,51.67,-2.02,English Rail
+603,Kemble Green,51.38,-0.76,Trainline
+604,Kempston Green,51.44,-0.91,Trainline
+605,Kemsley Coldfield,51.41,-0.07,Trainline
+606,Kendal,54.33,-2.73,English Rail
+607,Kendal Malvern,51.48,0.11,Trainline
+608,Kenilworth,52.34,-1.57,English Rail
+609,Kentish Malling,51.44,0.06,Trainline
+610,Kettering,52.39,-0.73,English Rail
+611,Kettering Hulme,51.46,-0.07,Trainline
+612,Keyham Market,51.41,-0.48,Trainline
+613,Keynsham,51.41,-2.49,English Rail
+614,Kidderminster,52.38,-2.23,English Rail
+615,Kidsgrove,53.08,-2.24,English Rail
+616,Kilmarnock,55.61,-4.49,Scottish Rail
+617,Kilwinning,55.65,-4.71,Scottish Rail
+618,Kingham,51.9,-1.62,English Rail
+619,Kings Langley,51.7,-0.43,English Rail
+620,Kings Lynn,52.75,0.4,English Rail
+621,Kings Mountfitchet,51.44,0.06,Trainline
+622,Kings Norton,52.41,-1.93,English Rail
+623,Kings Road,51.42,-0.93,Trainline
+624,Kingston,51.41,-0.3,English Rail
+625,Kirkcaldy,56.11,-3.16,Scottish Rail
+626,Kirkham & Wesham,53.78,-2.88,English Rail
+627,Kirkstall Forge,53.82,-1.62,English Rail
+628,Knaresborough,54.0,-1.47,English Rail
+629,Knebworth,51.86,-0.18,English Rail
+630,Knutsford,53.3,-2.37,English Rail
+631,Ladybank Beach,51.43,0.0,Trainline
+632,Laindon,51.56,0.42,English Rail
+633,Laindon Bay,51.41,-0.03,Trainline
+634,Laindon Mill,51.48,-1.06,Trainline
+635,Lairg Oak,51.38,-0.56,Trainline
+636,Lancaster,54.04,-2.8,English Rail
+637,Lancing,50.82,-0.32,English Rail
+638,Landywood West,51.47,-0.91,Trainline
+639,Langley (Berks),51.5,-0.54,English Rail
+640,Langley Mill,53.01,-1.33,English Rail
+641,Langley Row,51.41,-0.01,Trainline
+642,Larbert,56.02,-3.83,Scottish Rail
+643,Largs Docks,51.47,-0.73,Trainline
+644,Lawrence Hill,51.45,-2.56,English Rail
+645,Lea Green,53.42,-2.72,English Rail
+646,Lea Hall,52.48,-1.78,English Rail
+647,Lea Park,51.37,-1.03,Trainline
+648,Leagrave,51.9,-0.45,English Rail
+649,Leamington Spa,52.28,-1.53,English Rail
+650,Leatherhead,51.29,-0.33,English Rail
+651,Ledbury,52.04,-2.42,English Rail
+652,Ledbury Spa,51.4,0.04,Trainline
+653,Leeds,53.79,-1.54,English Rail
+654,Leicester,52.63,-1.12,English Rail
+655,Leicester Boldon,51.39,-0.61,Trainline
+656,Leigh-on-Sea,51.54,0.64,English Rail
+657,Leighton Buzzard,51.91,-0.67,English Rail
+658,Lenzie,55.92,-4.15,Scottish Rail
+659,Leominster,52.22,-2.73,English Rail
+660,Letchworth Garden City,51.97,-0.22,English Rail
+661,Leuchars,56.37,-2.89,Scottish Rail
+662,Levenshulme,53.44,-2.19,English Rail
+663,Levenshulme Alston,51.47,-1.07,Trainline
+664,Lewes,50.87,0.01,English Rail
+665,Lewisham,51.46,-0.01,English Rail
+666,Leyland,53.69,-2.68,English Rail
+667,Lichfield City,52.68,-1.82,English Rail
+668,Lichfield Trent Valley,52.68,-1.8,English Rail
+669,Limehouse Central,51.4,-0.19,Trainline
+670,Lincoln,53.22,-0.53,English Rail
+671,Lingfield,51.17,0.0,English Rail
+672,Linlithgow,55.97,-3.59,Scottish Rail
+673,Liphook,51.07,-0.8,English Rail
+674,Liskeard,50.44,-4.46,English Rail
+675,Liss,51.04,-0.89,English Rail
+676,Liss Heath,51.36,-0.93,Trainline
+677,Littleborough,53.64,-2.09,English Rail
+678,Littlehampton,50.81,-0.54,English Rail
+679,Littlehaven,51.07,-0.3,English Rail
+680,Littleport,52.46,0.31,English Rail
+681,Littleport Eastfields,51.4,0.07,Trainline
+682,Liverpool Central,53.4,-2.97,English Rail
+683,Liverpool Lime Street,53.4,-2.97,English Rail
+684,Liverpool South Parkway,53.35,-2.88,English Rail
+685,Livingston North,55.9,-3.54,Scottish Rail
+686,Livingston South,55.87,-3.5,Scottish Rail
+687,Llandaf,51.5,-3.22,Welsh Rail
+688,Llandudno,53.32,-3.82,Welsh Rail
+689,Llandudno Junction,53.28,-3.8,Welsh Rail
+690,Llanelli,51.67,-4.16,Welsh Rail
+691,Llanfairpwll Fold,51.47,-0.21,Trainline
+692,Llangadog Road,51.47,-0.23,Trainline
+693,Llanrwst Central,51.37,-0.68,Trainline
+694,Llanwrtyd Bridge,51.42,-0.93,Trainline
+695,Llwyngwril Park,51.4,-0.27,Trainline
+696,Lockerbie,55.12,-3.35,Scottish Rail
+697,London Blackfriars,51.51,-0.1,English Rail
+698,London Bridge,51.5,-0.08,English Rail
+699,London Cannon Street,51.51,-0.09,English Rail
+700,London Charing Cross,51.5,-0.12,English Rail
+701,London Euston,51.52,-0.13,English Rail
+702,London Fenchurch Street,51.51,-0.07,English Rail
+703,London Kings Cross,51.53,-0.12,English Rail
+704,London Liverpool Street,51.51,-0.08,English Rail
+705,London Marylebone,51.52,-0.16,English Rail
+706,London Moor,51.45,-0.49,Trainline
+707,London North,51.42,-0.74,Trainline
+708,London Paddington,51.51,-0.17,English Rail
+709,London Road (Brighton),50.83,-0.13,English Rail
+710,London Road (Guildford),51.24,-0.56,English Rail
+711,London St Pancras International,51.53,-0.12,English Rail
+712,London Thameslink,51.44,-0.75,Trainline
+713,London Victoria,51.49,-0.14,English Rail
+714,London Waterloo,51.5,-0.11,English Rail
+715,London Waterloo East,51.5,-0.1,English Rail
+716,Long Buckby,52.29,-1.08,English Rail
+717,Long Eaton,52.88,-1.28,English Rail
+718,Long Lower,51.46,-0.48,Trainline
+719,Long Park,51.38,-0.55,Trainline
+720,Long Well,51.47,-0.16,Trainline
+721,Longbridge,52.39,-1.98,English Rail
+722,Longbridge Central,51.43,-0.41,Trainline
+723,Longport International,51.44,0.1,Trainline
+724,Lostock,53.57,-2.49,English Rail
+725,Loughborough,52.77,-1.19,English Rail
+726,Low Moor,53.74,-1.75,English Rail
+727,Lowestoft,52.47,1.74,English Rail
+728,Ludlow,52.37,-2.71,English Rail
+729,Luton,51.88,-0.41,English Rail
+730,Luton Airport Parkway,51.87,-0.39,English Rail
+731,Lydney,51.71,-2.53,English Rail
+732,Lymington Town,50.76,-1.53,English Rail
+733,Lympstone Central,51.42,-0.44,Trainline
+734,Macclesfield,53.25,-2.12,English Rail
+735,Maidenhead,51.51,-0.72,English Rail
+736,Maidstone East,51.27,0.52,English Rail
+737,Maidstone West,51.27,0.51,English Rail
+738,Malton,54.13,-0.79,English Rail
+739,Malvern Link,52.12,-2.31,English Rail
+740,Manchester Airport,53.36,-2.27,English Rail
+741,Manchester Oxford Road,53.47,-2.24,English Rail
+742,Manchester Piccadilly,53.47,-2.23,English Rail
+743,Manchester Victoria,53.48,-2.24,English Rail
+744,Manningtree,51.94,1.04,English Rail
+745,Manorbier Park,51.38,-0.76,Trainline
+746,Mansfield,53.14,-1.19,English Rail
+747,Mansfield Park,51.48,0.1,Trainline
+748,March,52.55,0.09,English Rail
+749,Marden (Kent),51.17,0.49,English Rail
+750,Margate,51.38,1.37,English Rail
+751,Market Harborough,52.47,-0.9,English Rail
+752,Markinch,56.2,-3.13,Scottish Rail
+753,Marks Junction,51.48,0.01,Trainline
+754,Marks Tey,51.88,0.78,English Rail
+755,Marlow,51.57,-0.76,English Rail
+756,Marple,53.4,-2.05,English Rail
+757,Marple Green,51.44,0.07,Trainline
+758,Marston Green,52.46,-1.75,English Rail
+759,Martins Elmsall,51.39,-0.08,Trainline
+760,Martins Heron,51.4,-0.72,English Rail
+761,Maryhill Street,51.48,-0.73,Trainline
+762,Matlock,53.13,-1.55,English Rail
+763,Mauldeth Road,53.43,-2.2,English Rail
+764,Meadowhall,53.41,-1.41,English Rail
+765,Meldreth,52.09,0.0,English Rail
+766,Meldreth Blackfriars,51.44,-0.08,Trainline
+767,Melton (Suffolk),52.1,1.33,English Rail
+768,Melton Green,51.41,-0.34,Trainline
+769,Melton Mowbray,52.76,-0.88,English Rail
+770,Menston,53.89,-1.73,English Rail
+771,Meridian Victoria,51.4,-0.01,Trainline
+772,Merstham,51.26,-0.15,English Rail
+773,Merstham Vale,51.38,-0.59,Trainline
+774,Micheldever,51.18,-1.26,English Rail
+775,Micheldever Forge,51.48,-0.87,Trainline
+776,Micklefield,53.78,-1.32,English Rail
+777,Middlesbrough,54.57,-1.23,English Rail
+778,Milford (Surrey),51.16,-0.63,English Rail
+779,Milliken Docks,51.45,-0.85,Trainline
+780,Mills Hill (Manchester),53.55,-2.17,English Rail
+781,Milngavie,55.94,-4.31,Scottish Rail
+782,Milton Keynes Central,52.03,-0.77,English Rail
+783,Mirfield,53.67,-1.69,English Rail
+784,Monifieth Interchange,51.47,-0.33,Trainline
+785,Montpelier,51.46,-2.58,English Rail
+786,Montrose,56.71,-2.47,Scottish Rail
+787,Moorthorpe Hill,51.42,0.04,Trainline
+788,Moreton-in-Marsh,51.99,-1.7,English Rail
+789,Morley,53.74,-1.59,English Rail
+790,Morpeth,55.16,-1.68,Scottish Rail
+791,Mortimer,51.37,-1.03,English Rail
+792,Mossley (Manchester),53.51,-2.04,English Rail
+793,Mossley Central,51.46,-0.6,Trainline
+794,Moston Green,51.46,-0.33,Trainline
+795,Motherwell,55.79,-3.99,Scottish Rail
+796,Motspur Bay,51.4,-0.59,Trainline
+797,Moulsecoomb,50.84,-0.11,English Rail
+798,Mount Florida,55.82,-4.26,Scottish Rail
+799,Mount Heath,51.44,-0.49,Trainline
+800,Musselburgh,55.93,-3.07,Scottish Rail
+801,Mytholmroyd,53.72,-1.98,English Rail
+802,Nailsea & Backwell,51.41,-2.75,English Rail
+803,Nantwich,53.06,-2.51,English Rail
+804,Narborough,52.57,-1.2,English Rail
+805,Neath,51.66,-3.8,Welsh Rail
+806,New Malden,51.4,-0.25,English Rail
+807,New Mills Newtown,53.35,-2.0,English Rail
+808,New Milton,50.75,-1.65,English Rail
+809,New Pudsey,53.8,-1.68,English Rail
+810,Newark Castle,53.08,-0.81,English Rail
+811,Newark Northgate,53.08,-0.79,English Rail
+812,Newbury,51.39,-1.32,English Rail
+813,Newcastle,54.96,-1.61,English Rail
+814,Newhaven Town,50.79,0.05,English Rail
+815,Newmarket,52.23,0.4,English Rail
+816,Newport (Essex),51.97,0.21,English Rail
+817,Newport (South Wales),51.58,-3.0,Welsh Rail
+818,Newquay,50.41,-5.07,English Rail
+819,Newton Abbot,50.52,-3.59,English Rail
+820,Newton Brow,51.46,-0.73,Trainline
+821,Newton Port,51.38,-0.92,Trainline
+822,Newton-le-Willows,53.45,-2.61,English Rail
+823,Newtown (Powys),52.51,-3.31,Welsh Rail
+824,Norbiton,51.41,-0.28,English Rail
+825,Normanton,53.7,-1.42,English Rail
+826,North Beeches,51.39,-0.16,Trainline
+827,North Berwick,56.05,-2.73,Scottish Rail
+828,North Camp,51.27,-0.73,English Rail
+829,North South,51.4,-0.14,Trainline
+830,North Walsham,52.81,1.38,English Rail
+831,Northallerton,54.33,-1.44,English Rail
+832,Northampton,52.23,-0.9,English Rail
+833,Northfield,52.4,-1.96,English Rail
+834,Northwich,53.26,-2.49,English Rail
+835,Norwich,52.62,1.3,English Rail
+836,Norwood Junction,51.39,-0.07,English Rail
+837,Nottingham,52.94,-1.14,English Rail
+838,Nuneaton,52.52,-1.46,English Rail
+839,Oakham,52.67,-0.73,English Rail
+840,Oban,56.41,-5.47,Scottish Rail
+841,Okehampton,50.73,-3.99,English Rail
+842,Okehampton Park,51.48,-0.85,Trainline
+843,Oldfield Park,51.37,-2.38,English Rail
+844,Olton,52.43,-1.8,English Rail
+845,Ormskirk,53.56,-2.88,English Rail
+846,Orpington,51.37,0.08,English Rail
+847,Oulton Stretton,51.39,-0.59,Trainline
+848,Outwood,53.71,-1.51,English Rail
+849,Overton,51.25,-1.25,English Rail
+850,Overton East,51.46,-0.4,Trainline
+851,Oxenholme Lake District,54.3,-2.72,English Rail
+852,Oxford,51.75,-1.27,English Rail
+853,Oxford Parkway,51.8,-1.27,English Rail
+854,Oxshott,51.33,-0.36,English Rail
+855,Oxted,51.25,0.0,English Rail
+856,Paddock Malling,51.47,-0.57,Trainline
+857,Paddock Wood,51.18,0.38,English Rail
+858,Paignton,50.43,-3.56,English Rail
+859,Paisley Gilmour Street,55.84,-4.42,Scottish Rail
+860,Pangbourne,51.48,-1.09,English Rail
+861,Pangbourne Village,51.39,-0.92,Trainline
+862,Pannal,53.95,-1.53,English Rail
+863,Par,50.35,-4.7,English Rail
+864,Parkstone (Dorset),50.72,-1.94,English Rail
+865,Parson Street,51.43,-2.6,English Rail
+866,Partick,55.86,-4.3,Scottish Rail
+867,Peckham Rye,51.47,-0.06,English Rail
+868,Pembrey Mill,51.39,-0.14,Trainline
+869,Pen-y-Bont Hale,51.44,-0.47,Trainline
+870,Penally Ffestiniog,51.46,0.0,Trainline
+871,Penarth,51.43,-3.17,Welsh Rail
+872,Penge Park,51.47,-0.91,Trainline
+873,Penkridge,52.72,-2.11,English Rail
+874,Penmere,50.15,-5.08,English Rail
+875,Penrith (North Lakes),54.66,-2.75,English Rail
+876,Penryn (Cornwall),50.17,-5.11,English Rail
+877,Penzance,50.12,-5.53,English Rail
+878,Pershore,52.13,-2.07,English Rail
+879,Perth,56.39,-3.43,Scottish Rail
+880,Peterborough,52.57,-0.24,English Rail
+881,Petersfield,51.0,-0.94,English Rail
+882,Pewsey,51.34,-1.77,English Rail
+883,Pitlochry,56.7,-3.73,Scottish Rail
+884,Pitsea,51.56,0.5,English Rail
+885,Plymouth,50.37,-4.14,English Rail
+886,Pokesdown,50.73,-1.82,English Rail
+887,Polegate,50.82,0.24,English Rail
+888,Pollokshaws Chapel,51.39,-0.17,Trainline
+889,Pollokshaws End,51.39,-0.15,Trainline
+890,Polmont,55.98,-3.71,Scottish Rail
+891,Pontefract Monkhill,53.69,-1.3,English Rail
+892,Pontyclun,51.52,-3.39,Welsh Rail
+893,Pontypridd,51.59,-3.34,Welsh Rail
+894,Poole,50.71,-1.98,English Rail
+895,Port Talbot Parkway,51.59,-3.78,Welsh Rail
+896,Portchester,50.84,-1.12,English Rail
+897,Porth Carew,51.42,0.04,Trainline
+898,Porth Cumnock,51.46,0.05,Trainline
+899,Porth Road,51.47,-0.08,Trainline
+900,Portslade,50.83,-0.2,English Rail
+901,Portsmouth & Southsea,50.79,-1.09,English Rail
+902,Portsmouth Harbour,50.79,-1.1,English Rail
+903,Possilpark North,51.44,0.1,Trainline
+904,Potters Bar,51.69,-0.19,English Rail
+905,Poulton-le-Fylde,53.84,-2.99,English Rail
+906,Poynton,53.35,-2.13,English Rail
+907,Prestatyn,53.33,-3.4,Welsh Rail
+908,Prestatyn Rasen,51.42,-0.9,Trainline
+909,Preston (Lancs),53.75,-2.7,English Rail
+910,Preston Lane,51.4,0.05,Trainline
+911,Preston Park,50.84,-0.15,English Rail
+912,Prestonpans,55.95,-2.97,Scottish Rail
+913,Prestwick Town,55.5,-4.61,Scottish Rail
+914,Princes Risborough,51.71,-0.84,English Rail
+915,Prittlewell,51.55,0.71,English Rail
+916,Prittlewell Road,51.37,-0.93,Trainline
+917,Pulborough,50.95,-0.51,English Rail
+918,Purley,51.33,-0.11,English Rail
+919,Putney,51.46,-0.21,English Rail
+920,Pye Heath,51.44,-0.33,Trainline
+921,Queens Park (Glasgow),55.83,-4.26,Scottish Rail
+922,Radlett,51.68,-0.31,English Rail
+923,Radley,51.68,-1.24,English Rail
+924,Radyr,51.51,-3.24,Welsh Rail
+925,Rainham (Kent),51.36,0.61,English Rail
+926,Rainhill Street,51.41,-0.92,Trainline
+927,Ramsgate,51.34,1.4,English Rail
+928,Rayleigh,51.58,0.6,English Rail
+929,Raynes Park,51.4,-0.23,English Rail
+930,Reading,51.45,-0.97,English Rail
+931,Reading West,51.45,-0.99,English Rail
+932,Redcar Central,54.61,-1.07,English Rail
+933,Redditch,52.3,-1.94,English Rail
+934,Redhill,51.24,-0.16,English Rail
+935,Redland,51.46,-2.59,English Rail
+936,Redruth,50.23,-5.22,English Rail
+937,Reigate,51.24,-0.2,English Rail
+938,Renton Stephen,51.47,-0.91,Trainline
+939,Retford,53.31,-0.94,English Rail
+940,Rhyl,53.31,-3.48,Welsh Rail
+941,Richmond (London),51.46,-0.3,English Rail
+942,Rochdale,53.61,-2.15,English Rail
+943,Rochester,51.38,0.5,English Rail
+944,Rochford,51.58,0.7,English Rail
+945,Romford,51.57,0.18,English Rail
+946,Romiley,53.41,-2.08,English Rail
+947,Romsey,50.99,-1.49,English Rail
+948,Roose Sheen,51.4,-0.41,Trainline
+949,Rotherham Central,53.43,-1.36,English Rail
+950,Rowley Kirkgate,51.43,-0.71,Trainline
+951,Rowley Regis,52.47,-2.03,English Rail
+952,Roydon,51.77,0.03,English Rail
+953,Royston,52.05,-0.02,English Rail
+954,Royston Marylebone,51.39,-0.2,Trainline
+955,Ruabon,52.98,-3.04,Welsh Rail
+956,Rugby,52.37,-1.25,English Rail
+957,Rugeley Town,52.75,-1.93,English Rail
+958,Rugeley Trent Valley,52.76,-1.92,English Rail
+959,Runcorn,53.33,-2.73,English Rail
+960,Runcorn East,53.32,-2.66,English Rail
+961,Runcorn South,51.44,-0.05,Trainline
+962,Ruswarp Hill,51.42,-0.74,Trainline
+963,Rutherglen Hythe,51.39,0.05,Trainline
+964,Ryde Pier Head,50.73,-1.16,English Rail
+965,Rye (Sussex),50.95,0.73,English Rail
+966,Salford Central,53.48,-2.25,English Rail
+967,Salford Crescent,53.48,-2.27,English Rail
+968,Salisbury,51.07,-1.8,English Rail
+969,Saltaire,53.83,-1.79,English Rail
+970,Saltash,50.4,-4.2,English Rail
+971,Saltburn,54.58,-0.97,English Rail
+972,Saltmarshe Port,51.47,-0.4,Trainline
+973,Sandal & Agbrigg,53.66,-1.48,English Rail
+974,Sandbach,53.15,-2.39,English Rail
+975,Sandhurst (Berks),51.34,-0.8,English Rail
+976,Sandwell & Dudley,52.5,-2.01,English Rail
+977,Sandwich,51.26,1.34,English Rail
+978,Sandy,52.12,-0.28,English Rail
+979,Sawbridgeworth,51.81,0.16,English Rail
+980,Saxilby Park,51.47,-0.08,Trainline
+981,Saxmundham,52.21,1.49,English Rail
+982,Scarborough,54.27,-0.4,English Rail
+983,Scunthorpe,53.58,-0.65,English Rail
+984,Seaford (Sussex),50.77,0.1,English Rail
+985,Seamer,54.24,-0.41,English Rail
+986,Seascale Park,51.4,-0.27,Trainline
+987,Selby,53.78,-1.06,English Rail
+988,Selby Gyle,51.4,-0.59,Trainline
+989,Selly Oak,52.44,-1.93,English Rail
+990,Sevenoaks,51.27,0.18,English Rail
+991,Severn Tunnel Junction,51.58,-2.77,English Rail
+992,Shalford Central,51.45,-0.48,Trainline
+993,Shalford Peverel,51.4,0.11,Trainline
+994,Shawford,51.02,-1.32,English Rail
+995,Sheffield,53.37,-1.46,English Rail
+996,Shelford (Cambs),52.14,0.14,English Rail
+997,Shenfield,51.63,0.32,English Rail
+998,Sherborne,50.94,-2.51,English Rail
+999,Sheringham,52.94,1.21,English Rail
+1000,Sheringham Bank,51.49,-0.84,Trainline
+1001,Shifnal,52.66,-2.37,English Rail
+1002,Shipley (Yorks),53.83,-1.77,English Rail
+1003,Shoreham-by-Sea,50.83,-0.27,English Rail
+1004,Shotton,53.21,-3.03,Welsh Rail
+1005,Shrewsbury,52.71,-2.74,English Rail
+1006,Sidcup,51.43,0.1,English Rail
+1007,Sittingbourne,51.34,0.73,English Rail
+1008,Skegness,53.14,0.33,English Rail
+1009,Skewen North,51.4,-0.85,Trainline
+1010,Skipton,53.95,-2.02,English Rail
+1011,Slaithwaite,53.62,-1.88,English Rail
+1012,Slateford Park,51.42,-0.19,Trainline
+1013,Sleaford,52.99,-0.41,English Rail
+1014,Slough,51.51,-0.59,English Rail
+1015,Smethwick Galton Bridge,52.5,-1.98,English Rail
+1016,Solihull,52.41,-1.78,English Rail
+1017,South Elmsall,53.59,-1.28,English Rail
+1018,South Risborough,51.4,-0.41,Trainline
+1019,South Wigston,52.58,-1.13,English Rail
+1020,South Woodham Ferrers,51.64,0.6,English Rail
+1021,Southall,51.5,-0.37,English Rail
+1022,Southampton Airport Parkway,50.95,-1.36,English Rail
+1023,Southampton Central,50.9,-1.41,English Rail
+1024,Southend Airport,51.56,0.7,English Rail
+1025,Southend Central,51.53,0.71,English Rail
+1026,Southend East,51.53,0.73,English Rail
+1027,Southend Victoria,51.54,0.71,English Rail
+1028,Southminster,51.66,0.83,English Rail
+1029,Southport,53.64,-3.0,English Rail
+1030,Southwick,50.83,-0.23,English Rail
+1031,Sowerby Bridge,53.7,-1.9,English Rail
+1032,Spalding,52.78,-0.15,English Rail
+1033,Spooner Hill,51.47,-1.08,Trainline
+1034,St Albans City,51.75,-0.32,English Rail
+1035,St Annes-on-the-Sea,53.75,-3.02,English Rail
+1036,St Austell,50.33,-4.78,English Rail
+1037,St Denys,50.92,-1.38,English Rail
+1038,St Erth,50.17,-5.44,English Rail
+1039,St Heath,51.4,0.04,Trainline
+1040,St Helens Central,53.45,-2.73,English Rail
+1041,St Helens Junction,53.43,-2.7,English Rail
+1042,St Ives (Cornwall),50.2,-5.47,English Rail
+1043,St Leonards Warrior Square,50.85,0.56,English Rail
+1044,St Neots,52.23,-0.24,English Rail
+1045,St Road,51.39,-0.19,Trainline
+1046,Stafford,52.8,-2.12,English Rail
+1047,Stafford Town,51.47,-0.82,Trainline
+1048,Staines,51.43,-0.5,English Rail
+1049,Stalybridge,53.48,-2.06,English Rail
+1050,Stamford (Lincs),52.64,-0.48,English Rail
+1051,Stamford Spa,51.39,-0.55,Trainline
+1052,Stansted Airport,51.88,0.26,English Rail
+1053,Stansted Mountfitchet,51.9,0.19,English Rail
+1054,Staplehurst,51.17,0.55,English Rail
+1055,Stapleton Road,51.46,-2.56,English Rail
+1056,Starbeck,53.99,-1.5,English Rail
+1057,Starcross Bridge,51.42,-0.71,Trainline
+1058,Stechford,52.48,-1.81,English Rail
+1059,Steeton & Silsden,53.9,-1.94,English Rail
+1060,Stevenage,51.9,-0.2,English Rail
+1061,Stirling,56.11,-3.93,Scottish Rail
+1062,Stockport,53.4,-2.16,English Rail
+1063,Stockport Peters,51.43,-0.89,Trainline
+1064,Stoke-on-Trent,53.0,-2.18,English Rail
+1065,Stone (Staffs),52.9,-2.15,English Rail
+1066,Stonehaven,56.96,-2.22,Scottish Rail
+1067,Stonehouse,51.74,-2.27,English Rail
+1068,Stourbridge Junction,52.44,-2.13,English Rail
+1069,Stowmarket,52.18,1.0,English Rail
+1070,Stranraer Street,51.44,-0.08,Trainline
+1071,Stratford (London),51.54,0.0,English Rail
+1072,Stratford International,51.54,0.0,English Rail
+1073,Stratford-upon-Avon,52.19,-1.71,English Rail
+1074,Streatham Parkway,51.39,-0.58,Trainline
+1075,Strood (Kent),51.39,0.5,English Rail
+1076,Stroud (Gloucs),51.74,-2.21,English Rail
+1077,Sudbury (Suffolk),52.03,0.73,English Rail
+1078,Sunbury,51.41,-0.41,English Rail
+1079,Sunderland,54.9,-1.38,English Rail
+1080,Sunningdale,51.39,-0.63,English Rail
+1081,Sunnymeads Interchange,51.47,-0.83,Trainline
+1082,Surbiton,51.39,-0.3,English Rail
+1083,Sutton (London),51.35,-0.19,English Rail
+1084,Sutton Coldfield,52.56,-1.82,English Rail
+1085,Sutton South,51.47,-0.15,Trainline
+1086,Swanley,51.39,0.16,English Rail
+1087,Swansea,51.62,-3.94,Welsh Rail
+1088,Swanwick,50.87,-1.26,English Rail
+1089,Swindon (Wilts),51.56,-1.78,English Rail
+1090,Swindon Wick,51.4,-0.59,Trainline
+1091,Swinton (South Yorks),53.48,-1.3,English Rail
+1092,Syston,52.69,-1.08,English Rail
+1093,Syston Hale,51.4,0.0,Trainline
+1094,Tain Town,51.47,-0.6,Trainline
+1095,Tame Bridge Parkway,52.55,-1.97,English Rail
+1096,Tamworth,52.63,-1.68,English Rail
+1097,Taplow,51.52,-0.68,English Rail
+1098,Tattenham Hall,51.47,0.05,Trainline
+1099,Taunton,51.02,-3.1,English Rail
+1100,Taynuilt Calder,51.42,-0.08,Trainline
+1101,Teddington,51.42,-0.33,English Rail
+1102,Teignmouth,50.54,-3.49,English Rail
+1103,Telford Central,52.68,-2.44,English Rail
+1104,Templecombe,51.0,-2.41,English Rail
+1105,Thames Castle,51.47,-0.33,Trainline
+1106,Thatcham,51.39,-1.24,English Rail
+1107,Theale,51.43,-1.07,English Rail
+1108,Thetford,52.41,0.74,English Rail
+1109,Thirsk,54.22,-1.37,English Rail
+1110,Thornaby,54.55,-1.3,English Rail
+1111,Thorntonhall Row,51.41,-0.27,Trainline
+1112,Thorpe Bay,51.53,0.76,English Rail
+1113,Thorpe-le-Soken,51.84,1.16,English Rail
+1114,Three Bridges,51.11,-0.16,English Rail
+1115,Three Pudsey,51.47,-0.6,Trainline
+1116,Thurston,52.25,0.8,English Rail
+1117,Tile Hill,52.39,-1.59,English Rail
+1118,Tile Park,51.42,-0.34,Trainline
+1119,Tilehurst,51.47,-1.02,English Rail
+1120,Tipton,52.53,-2.06,English Rail
+1121,Tisbury,51.06,-2.07,English Rail
+1122,Tiverton Parkway,50.91,-3.35,English Rail
+1123,Todmorden,53.71,-2.09,English Rail
+1124,Todmorden Stadium,51.47,-0.08,Trainline
+1125,Tonbridge,51.19,0.27,English Rail
+1126,Tonbridge Norwood,51.39,-0.15,Trainline
+1127,Torquay,50.46,-3.54,English Rail
+1128,Torre,50.47,-3.54,English Rail
+1129,Totnes,50.43,-3.68,English Rail
+1130,Tottenham Hale,51.58,-0.05,English Rail
+1131,Totton,50.91,-1.48,English Rail
+1132,Trefforest,51.59,-3.32,Welsh Rail
+1133,Trefforest Gardens,51.43,0.0,Trainline
+1134,Tring,51.8,-0.62,English Rail
+1135,Troon,55.54,-4.65,Scottish Rail
+1136,Trowbridge,51.31,-2.21,English Rail
+1137,Trowbridge Castle,51.47,-0.72,Trainline
+1138,Truro,50.26,-5.06,English Rail
+1139,Tunbridge Wells,51.13,0.26,English Rail
+1140,Tweedbank,55.6,-2.75,Scottish Rail
+1141,Twickenham,51.45,-0.33,English Rail
+1142,Twyford,51.47,-0.86,English Rail
+1143,Ty Rasen,51.47,-0.57,Trainline
+1144,Uckfield,50.96,0.09,English Rail
+1145,Uddingston,55.82,-4.08,Scottish Rail
+1146,Ulleskelf Park,51.41,-0.33,Trainline
+1147,Ulverston,54.19,-3.09,English Rail
+1148,University (Birmingham),52.45,-1.93,English Rail
+1149,Uphall,55.91,-3.5,Scottish Rail
+1150,Urmston,53.44,-2.35,English Rail
+1151,Uttoxeter,52.89,-1.85,English Rail
+1152,Vauxhall,51.48,-0.12,English Rail
+1153,Vauxhall Monkhill,51.47,0.05,Trainline
+1154,Virginia Water,51.4,-0.56,English Rail
+1155,Wadhurst,51.07,0.31,English Rail
+1156,Wainfleet Mawddach,51.42,-0.75,Trainline
+1157,Wakefield Kirkgate,53.67,-1.48,English Rail
+1158,Wakefield Westgate,53.68,-1.5,English Rail
+1159,Walkden,53.51,-2.39,English Rail
+1160,Wallyford,55.94,-3.01,Scottish Rail
+1161,Walmer,51.2,1.38,English Rail
+1162,Walsall,52.58,-1.98,English Rail
+1163,Walsden Sands,51.41,0.0,Trainline
+1164,Walton-on-Thames,51.37,-0.41,English Rail
+1165,Walton-on-Thames Abbey,51.39,-0.18,Trainline
+1166,Wandsworth Town,51.46,-0.18,English Rail
+1167,Ware (Herts),51.8,-0.02,English Rail
+1168,Ware Merton,51.41,-0.76,Trainline
+1169,Wareham (Dorset),50.69,-2.11,English Rail
+1170,Warminster,51.2,-2.17,English Rail
+1171,Warrington Bank Quay,53.38,-2.6,English Rail
+1172,Warrington Central,53.39,-2.59,English Rail
+1173,Warrington West,53.39,-2.63,English Rail
+1174,Warwick,52.28,-1.58,English Rail
+1175,Warwick Parkway,52.28,-1.61,English Rail
+1176,Water Park,51.47,-0.4,Trainline
+1177,Waterbeach,52.26,0.19,English Rail
+1178,Watford Junction,51.66,-0.39,English Rail
+1179,Watlington,52.67,0.38,English Rail
+1180,Wellingborough,52.3,-0.67,English Rail
+1181,Wellingborough Spa,51.39,-0.84,Trainline
+1182,Wellington (Shropshire),52.7,-2.51,English Rail
+1183,Welshpool,52.65,-3.13,Welsh Rail
+1184,Welwyn Garden City,51.8,-0.2,English Rail
+1185,Welwyn North,51.82,-0.19,English Rail
+1186,Wembley Stadium,51.55,-0.28,English Rail
+1187,Wendover,51.76,-0.74,English Rail
+1188,West Byfleet,51.33,-0.5,English Rail
+1189,West Drayton,51.51,-0.47,English Rail
+1190,West Hampstead Thameslink,51.54,-0.19,English Rail
+1191,West Hulme,51.44,-0.87,Trainline
+1192,West Malling,51.29,0.41,English Rail
+1193,West West,51.4,-0.33,Trainline
+1194,West Worthing,50.81,-0.39,English Rail
+1195,Westbury,51.26,-2.19,English Rail
+1196,Westcliff,51.53,0.69,English Rail
+1197,Westerton,55.9,-4.33,Scottish Rail
+1198,Weston-super-Mare,51.34,-2.97,English Rail
+1199,Weybridge,51.36,-0.45,English Rail
+1200,Weymouth,50.61,-2.45,English Rail
+1201,Whitchurch (Hampshire),51.23,-1.33,English Rail
+1202,Whitchurch (Shropshire),52.96,-2.67,English Rail
+1203,Whitehaven,54.55,-3.58,English Rail
+1204,Whitstable,51.35,1.03,English Rail
+1205,Whittlesford Parkway,52.1,0.16,English Rail
+1206,Wickford,51.61,0.51,English Rail
+1207,Wickham Market,52.15,1.39,English Rail
+1208,Widdrington Mountfitchet,51.4,0.04,Trainline
+1209,Widnes,53.37,-2.73,English Rail
+1210,Widney Manor,52.39,-1.77,English Rail
+1211,Wigan East,51.48,0.0,Trainline
+1212,Wigan North Western,53.54,-2.63,English Rail
+1213,Wigan Wallgate,53.54,-2.63,English Rail
+1214,Wigton North,51.4,-0.34,Trainline
+1215,Willington Vale,51.47,-0.07,Trainline
+1216,Wilmslow,53.32,-2.22,English Rail
+1217,Wimbledon,51.42,-0.2,English Rail
+1218,Winchester,51.06,-1.31,English Rail
+1219,Winchfield,51.28,-0.9,English Rail
+1220,Windermere,54.37,-2.9,English Rail
+1221,Windermere International,51.41,-0.01,Trainline
+1222,Windsor & Eton Central,51.48,-0.61,English Rail
+1223,Windsor & Eton Riverside,51.48,-0.6,English Rail
+1224,Winnersh,51.43,-0.87,English Rail
+1225,Winsford,53.19,-2.49,English Rail
+1226,Wishaw,55.77,-3.92,Scottish Rail
+1227,Witham,51.8,0.63,English Rail
+1228,Witley,51.13,-0.64,English Rail
+1229,Wivelsfield,50.96,-0.12,English Rail
+1230,Wivenhoe,51.85,0.95,English Rail
+1231,Woburn Central,51.47,-0.08,Trainline
+1232,Woking,51.31,-0.55,English Rail
+1233,Wokingham,51.41,-0.84,English Rail
+1234,Wolverhampton,52.58,-2.11,English Rail
+1235,Wolverton,52.06,-0.8,English Rail
+1236,Wolverton Llanrwst,51.42,-0.91,Trainline
+1237,Wombwell,53.51,-1.41,English Rail
+1238,Wombwell Arena,51.46,-0.4,Trainline
+1239,Wood Admiral,51.45,0.0,Trainline
+1240,Woodbridge,52.09,1.31,English Rail
+1241,Woodlesford,53.75,-1.44,English Rail
+1242,Wool,50.68,-2.22,English Rail
+1243,Woolwich Arsenal,51.48,0.06,English Rail
+1244,Worcester Foregate Street,52.19,-2.22,English Rail
+1245,Worcester Shrub Hill,52.19,-2.2,English Rail
+1246,Worcestershire Parkway,52.15,-2.16,English Rail
+1247,Workington,54.64,-3.55,English Rail
+1248,Worksop,53.31,-1.12,English Rail
+1249,Worle,51.35,-2.9,English Rail
+1250,Worthing,50.81,-0.37,English Rail
+1251,Wrexham General,53.05,-3.0,Welsh Rail
+1252,Wylde Green,52.54,-1.83,English Rail
+1253,Wymondham,52.56,1.11,English Rail
+1254,Yarm,54.49,-1.35,English Rail
+1255,Yate,51.54,-2.43,English Rail
+1256,Yatton,51.39,-2.82,English Rail
+1257,Yeovil Junction,50.92,-2.61,English Rail
+1258,Yeovil Pen Mill,50.94,-2.61,English Rail
+1259,York,53.95,-1.09,English Rail
