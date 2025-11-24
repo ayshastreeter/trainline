@@ -1,0 +1,18 @@
+lookup sources
+
+
+SOURCE:  https://geoportal.statistics.gov.uk/search?q=PRD_ONSPD%20FEB_2023&sort=Date%20Created%7Ccreated%7Cdesc
+lookup_postcodes.csv
+lookup_rgn.csv
+lookup_ru11ind.csv
+lookup_bua.csv
+
+
+SOURCE:  https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/coastalbuiltupareasenglandandwales2022buaclassification
+lookup_coastal.csv
+
+SOURCE:  copilot request for dates 2023, 2024 and 2025 in json format across England, Wales and Scotland for:
++ official industrial rail action across unions
+lookup_strikes.json
++ official bank holiday dates
+lookup_holidays.json

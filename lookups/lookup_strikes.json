@@ -1,0 +1,74 @@
+{
+  "train_strikes": [
+    {
+      "year": 2023,
+      "dates": [
+        {"date": "2023-01-03", "union": "RMT"},
+        {"date": "2023-01-04", "union": "RMT"},
+        {"date": "2023-01-06", "union": "RMT"},
+        {"date": "2023-01-07", "union": "RMT"},
+        {"date": "2023-02-01", "union": "RMT + ASLEF"},
+        {"date": "2023-02-03", "union": "RMT"},
+        {"date": "2023-05-12", "union": "ASLEF"},
+        {"date": "2023-05-13", "union": "ASLEF"},
+        {"date": "2023-05-31", "union": "ASLEF"},
+        {"date": "2023-06-02", "union": "RMT"},
+        {"date": "2023-07-20", "union": "ASLEF"},
+        {"date": "2023-07-22", "union": "ASLEF"},
+        {"date": "2023-08-26", "union": "ASLEF"},
+        {"date": "2023-09-01", "union": "ASLEF"},
+        {"date": "2023-09-02", "union": "ASLEF"},
+        {"date": "2023-12-02", "union": "ASLEF"},
+        {"date": "2023-12-03", "union": "ASLEF"},
+        {"date": "2023-12-05", "union": "ASLEF"},
+        {"date": "2023-12-06", "union": "ASLEF"},
+        {"date": "2023-12-07", "union": "ASLEF"}
+      ]
+    },
+    {
+      "year": 2024,
+      "dates": [
+        {"date": "2024-02-02", "union": "ASLEF"},
+        {"date": "2024-02-03", "union": "ASLEF"},
+        {"date": "2024-03-01", "union": "ASLEF"},
+        {"date": "2024-03-02", "union": "ASLEF"},
+        {"date": "2024-04-05", "union": "ASLEF"},
+        {"date": "2024-04-06", "union": "ASLEF"},
+        {"date": "2024-05-07", "union": "ASLEF"},
+        {"date": "2024-05-08", "union": "ASLEF"},
+        {"date": "2024-05-09", "union": "ASLEF"},
+        {"date": "2024-05-10", "union": "ASLEF"},
+        {"date": "2024-05-11", "union": "ASLEF"},
+        {"date": "2024-06-03", "union": "ASLEF"},
+        {"date": "2024-06-04", "union": "ASLEF"},
+        {"date": "2024-06-05", "union": "ASLEF"},
+        {"date": "2024-06-06", "union": "ASLEF"},
+        {"date": "2024-06-07", "union": "ASLEF"},
+        {"date": "2024-06-08", "union": "ASLEF"},
+        {"date": "2024-07-08", "union": "ASLEF"},
+        {"date": "2024-07-09", "union": "ASLEF"},
+        {"date": "2024-07-10", "union": "ASLEF"},
+        {"date": "2024-07-11", "union": "ASLEF"},
+        {"date": "2024-07-12", "union": "ASLEF"},
+        {"date": "2024-07-13", "union": "ASLEF"},
+        {"date": "2024-08-19", "union": "ASLEF"},
+        {"date": "2024-08-20", "union": "ASLEF"},
+        {"date": "2024-08-21", "union": "ASLEF"},
+        {"date": "2024-08-22", "union": "ASLEF"},
+        {"date": "2024-08-23", "union": "ASLEF"},
+        {"date": "2024-08-24", "union": "ASLEF"},
+        {"date": "2024-11-27", "union": "ASLEF"}
+      ]
+    },
+    {
+      "year": 2025,
+      "dates": [
+        {"date": "2025-10-18", "union": "RMT"},
+        {"date": "2025-12-06", "union": "RMT"},
+        {"date": "2025-12-13", "union": "RMT"},
+        {"date": "2025-12-20", "union": "RMT"},
+        {"date": "2025-12-27", "union": "RMT"}
+      ]
+    }
+  ]
+}
